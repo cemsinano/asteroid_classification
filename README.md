@@ -8,6 +8,8 @@ In this project, I am going to perform a prediction analysis for classifying haz
 
 Analysis Notebook: [Asteroid_Classification.ipynb](./src/Asteroid_Classification.ipynb)
 
+Analysis knitted in html: [Asteroid_Classification.html](./doc/Asteroid_Classification.html)
+
 ### Running the Analysis on Docker
 
 Docker image for the project can be found at https://hub.docker.com/r/cemsinan/asteroid_classification/ .
